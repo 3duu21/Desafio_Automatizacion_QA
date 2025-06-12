@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+ <suite name="Coleccion de Test Suites"  >  
+            <suite-files>
+<!--                   <suite-file path="./configSuites/loginDemoSuite.xml" />-->
+<!--                   <suite-file path="./configSuites/reservationSuite.xml" />-->
+<!--                   <suite-file path="./configSuites/sampleDemoSuite.xml" />-->
+<!--                   <suite-file path="./configSuites/testPOMSuite.xml" />-->
+<!--                   <suite-file path="./configSuites/testWebinarSuite.xml" />-->
+                <suite-file path="./configSuites/previredFlujo.xml" />
+            </suite-files>
+    </suite>
